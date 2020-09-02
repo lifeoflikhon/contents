@@ -1,0 +1,725 @@
+{
+  "app": {
+    "appName": "jomidar",
+    "company": "aits",
+    "author": "aits",
+    "team": "aits-titanium",
+    "appUrl": "https://www.aitsbrains.com/jomidar",
+    "contact": "jomidar@aitsbrains.com",
+    "report": "jomidar@aitsbrains.com",
+    "termsAndConditions": "https://www.aitsbrains.com/jomidar/terms-and-conditions",
+    "privacyPolicy": "https://www.aitsbrains.com/jomidar/privacy-policy",
+    "appInstallUrl": {
+      "android": "https://play.google.com",
+      "ios": "https://www.apple.com/ios/app-store/"
+    },
+    "versions": {
+      "v1.0.0": {
+        "released": "date",
+        "features": [],
+        "bugs": [],
+        "bug-fixes": []
+      }
+    }
+  },
+  "users": [
+    {
+      "email": "mehedi.hasansjs@gmail.com",
+      "phoneNumber": "01624350761",
+      "password": "123456",
+      "username": "lifeoflikhon",
+      "fullName": "mehedi hasan",
+      "avaterUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=face-facial-hair-fine-looking-guy-614810.jpg&fm=jpg",
+      "notices": [
+        {
+          "title": "current bill will be extended by 100 BDT",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        },
+        {
+          "title": "Free my house for good",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        },
+        {
+          "title": "কাল গ্যাস থাকবে না",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        },
+        {
+          "title": "পানি সমস্যা সমাধানের জন্য ৫০০ টাকা চার্জ ধরা হচ্ছে",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        },
+        {
+          "title": "2 din emon e katbe, kheyaler ghore",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        },
+        {
+          "title": "in the end, it does not even matter",
+          "description": "A Notice to Pay Rent is a legal notice sent by a Landlord to a Tenant when the tenant has failed to pay the full rent due in a timely manner. The notice outlines how much rent is due, when it is due, and the method of payment.",
+          "timestamp": "Sat Jul 04 2020 05:40 PM"
+        }
+      ],
+      "toLets": [],
+      "usageHistory": [
+        {
+          "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+          "type": "payment",
+          "from": "01624350761",
+          "reference": "016240761",
+          "trxid": "g67bbd996c",
+          "timestamp": "03:01 PM 02/07/2020",
+          "amount": "9500"
+        },
+        {
+          "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+          "type": "payment",
+          "from": "01624350761",
+          "reference": "016240761",
+          "trxid": "g67bbd996c",
+          "timestamp": "03:01 PM 02/07/2020",
+          "amount": "9500"
+        },
+        {
+          "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+          "type": "payment",
+          "from": "01624350761",
+          "reference": "016240761",
+          "trxid": "g67bbd996c",
+          "timestamp": "03:01 PM 02/07/2020",
+          "amount": "9500"
+        },
+        {
+          "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+          "type": "payment",
+          "from": "01624350761",
+          "reference": "016240761",
+          "trxid": "g67bbd996c",
+          "timestamp": "03:01 PM 02/07/2020",
+          "amount": "9500"
+        }
+      ],
+      "floors": [
+        {
+          "flats": [
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {},
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "flats": [
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {
+              "members": [
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                },
+                {
+                  "avaterUrl": "https://images.pexels.com/photos/4728314/pexels-photo-4728314.jpeg?cs=srgb&dl=woman-in-white-dress-standing-on-sand-4728314.jpg&fm=jpg",
+                  "fullName": "mehedi hasan likhon",
+                  "flat": "a1",
+                  "floor": "3",
+                  "contact": "01624350761",
+                  "date_of_birth": "08 december 1916",
+                  "nid": "12345678",
+                  "office_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "parmanent_address": "32, ab/c, mirpur dohs, dhaka-1230",
+                  "placed_date": "06 july 2021"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "flats": [{}, {}, {}]
+        }
+      ],
+      "technician": {
+        "electricians": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "freezers": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "painter": [{ "name": "ebdul oashem", "contact": "01624350761" }],
+        "wood": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "gasLine": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "cloaths": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "construction": [
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "tv/mobile": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "others": [
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ]
+      },
+      "hospitality": {
+        "hospital": [
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          },
+          {
+            "name": "round hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          },
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          },
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          },
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "", "long": "" }
+          },
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          },
+          {
+            "name": "square hospitals ltd",
+            "contact": "01624350761",
+            "map": { "lat": "23.7529259", "long": "90.3794829" }
+          }
+        ],
+        "ambulance": [
+          { "name": "jibon", "contact": "01624350761" },
+          { "name": "mayer doa", "contact": "01624350761" }
+        ],
+        "doctor": [
+          {
+            "name": "abdul kashem",
+            "contact": "01624350761",
+            "category": "phychiatrist"
+          },
+          {
+            "name": "badul hashem",
+            "contact": "01624350761",
+            "category": "phychiatrist"
+          },
+          {
+            "name": "cbdul mashem",
+            "contact": "01624350761",
+            "category": "phychiatrist"
+          },
+          {
+            "name": "dbdul nashem",
+            "contact": "01624350761",
+            "category": "phychiatrist"
+          },
+          {
+            "name": "ebdul oashem",
+            "contact": "01624350761",
+            "category": "phychiatrist"
+          }
+        ],
+        "representative": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "chamber": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "pharmacy": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "nurse": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ]
+      },
+      "security": {
+        "policeStation": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "fireService": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ],
+        "localSecurity": [
+          { "name": "abdul kashem", "contact": "01624350761" },
+          { "name": "badul hashem", "contact": "01624350761" },
+          { "name": "cbdul mashem", "contact": "01624350761" },
+          { "name": "dbdul nashem", "contact": "01624350761" },
+          { "name": "ebdul oashem", "contact": "01624350761" }
+        ]
+      },
+      "bills": {
+        "2020": [
+          {
+            "month": "january",
+            "paid": "true"
+          },
+          {
+            "month": "february",
+            "paid": "false"
+          },
+
+          {
+            "month": "march",
+            "paid": "false"
+          },
+
+          {
+            "month": "april",
+            "paid": "false"
+          },
+
+          {
+            "month": "may",
+            "paid": "false"
+          },
+
+          {
+            "month": "june",
+            "paid": "false"
+          },
+
+          {
+            "month": "july",
+            "paid": "false"
+          },
+
+          {
+            "month": "august",
+            "paid": "false"
+          }
+        ],
+        "2021": [
+          {
+            "month": "january",
+            "paid": "true"
+          },
+          {
+            "month": "february",
+            "paid": "false"
+          },
+
+          {
+            "month": "march",
+            "paid": "false"
+          },
+
+          {
+            "month": "april",
+            "paid": "false"
+          },
+
+          {
+            "month": "may",
+            "paid": "false"
+          },
+
+          {
+            "month": "june",
+            "paid": "false"
+          },
+
+          {
+            "month": "july",
+            "paid": "false"
+          },
+
+          {
+            "month": "august",
+            "paid": "false"
+          }
+        ],
+        "2022": [
+          {
+            "month": "january",
+            "paid": "true"
+          },
+          {
+            "month": "february",
+            "paid": "false"
+          },
+
+          {
+            "month": "march",
+            "paid": "false"
+          },
+
+          {
+            "month": "april",
+            "paid": "false"
+          },
+
+          {
+            "month": "may",
+            "paid": "false"
+          },
+
+          {
+            "month": "june",
+            "paid": "false"
+          },
+
+          {
+            "month": "july",
+            "paid": "false"
+          },
+
+          {
+            "month": "august",
+            "paid": "false"
+          }
+        ]
+      }
+    }
+  ]
+}
